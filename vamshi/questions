@@ -1,0 +1,11 @@
+o4/02/2022
+
+#  check against each item , if item is horse . if not horse ,replace it with "horse power"
+
+list1=["a","test1","2","5hsfdf","hello","apple","banana","jackfruit","elephant","horse"]
+
+
+#return a new list from the above list1 elements after converting it to upper case if it has A in it 
+
+# return a new list from above list1 elements if it has letter "e" in it 
+
